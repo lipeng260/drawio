@@ -1,1 +1,58 @@
-<mxfile host="app.diagrams.net" modified="2020-10-13T11:36:17.446Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" version="13.7.9" etag="0EysqPb6cFsc7mdHvIF3" type="github"><diagram id="UrgbgqPsyUwQGp2SVyJ1">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-10-15T11:49:42.286Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="8csYsFDUtKKWE0fp41Sp" version="13.7.9" type="github">
+  <diagram id="UrgbgqPsyUwQGp2SVyJ1" name="第 1 页">
+    <mxGraphModel dx="1145" dy="623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="nGTSLTK9FVCk2-_wveLi-1" value="过磅单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="90" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nGTSLTK9FVCk2-_wveLi-2" value="过磅单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nGTSLTK9FVCk2-_wveLi-3" value="过磅单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nGTSLTK9FVCk2-_wveLi-4" value="订单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="10" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nGTSLTK9FVCk2-_wveLi-5" value="订单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="10" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nGTSLTK9FVCk2-_wveLi-6" value="过磅单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nGTSLTK9FVCk2-_wveLi-7" value="付款单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="180" width="350" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nGTSLTK9FVCk2-_wveLi-8" value="结算单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="270" width="680" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nGTSLTK9FVCk2-_wveLi-9" value="客户的订单执行情况" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="380" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="nGTSLTK9FVCk2-_wveLi-10" value="付款单不关联任何单据" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="420" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="nGTSLTK9FVCk2-_wveLi-11" value="过磅单可以进行划价" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="370" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="nGTSLTK9FVCk2-_wveLi-12" value="&lt;h1&gt;划价&lt;/h1&gt;&lt;div&gt;过磅单进行划价&lt;/div&gt;&lt;div&gt;订单控制数量和价格&lt;/div&gt;&lt;div&gt;过磅单自动拆分？&lt;/div&gt;&lt;div&gt;付款单对应客户不对应车辆&lt;/div&gt;&lt;div&gt;结算单不对应过磅单，对应客户？&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="390" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="nGTSLTK9FVCk2-_wveLi-13" value="过磅单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="90" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nGTSLTK9FVCk2-_wveLi-14" value="过磅单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="780" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nGTSLTK9FVCk2-_wveLi-15" value="过磅单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nGTSLTK9FVCk2-_wveLi-16" value="付款单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="180" width="350" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
