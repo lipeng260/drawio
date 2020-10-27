@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-27T23:52:51.705Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="NzjbMtHUvOo2tAy864C_" version="13.8.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-27T23:55:32.150Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="V1c7O519xsco9jq5alwB" version="13.8.3" type="github">
   <diagram id="bRuYLjxOwxbkPora2MnW" name="第 1 页">
     <mxGraphModel dx="946" dy="623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -93,10 +93,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="iUqJYe-C6QMbKc_73fvr-51" value="客户端" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="50" y="400" width="100" height="300" as="geometry" />
+          <mxGeometry x="50" y="400" width="100" height="230" as="geometry" />
         </mxCell>
         <mxCell id="iUqJYe-C6QMbKc_73fvr-52" value="ext" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="150" y="400" width="100" height="300" as="geometry" />
+          <mxGeometry x="150" y="400" width="100" height="230" as="geometry" />
         </mxCell>
         <mxCell id="iUqJYe-C6QMbKc_73fvr-53" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="iUqJYe-C6QMbKc_73fvr-52">
           <mxGeometry x="45" y="80" width="10" height="30" as="geometry" />
@@ -105,13 +105,10 @@
           <mxGeometry x="45" y="130" width="10" height="80" as="geometry" />
         </mxCell>
         <mxCell id="iUqJYe-C6QMbKc_73fvr-56" value="base" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="250" y="400" width="100" height="300" as="geometry" />
+          <mxGeometry x="250" y="400" width="100" height="230" as="geometry" />
         </mxCell>
         <mxCell id="iUqJYe-C6QMbKc_73fvr-57" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="iUqJYe-C6QMbKc_73fvr-56">
           <mxGeometry x="45" y="140" width="10" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="iUqJYe-C6QMbKc_73fvr-58" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="iUqJYe-C6QMbKc_73fvr-56">
-          <mxGeometry x="45" y="240" width="10" height="40" as="geometry" />
         </mxCell>
         <mxCell id="iUqJYe-C6QMbKc_73fvr-59" value="请求菜单" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;" edge="1" parent="1" source="iUqJYe-C6QMbKc_73fvr-51" target="iUqJYe-C6QMbKc_73fvr-53">
           <mxGeometry relative="1" as="geometry">
@@ -136,11 +133,6 @@
         <mxCell id="iUqJYe-C6QMbKc_73fvr-63" value="请求page数据" style="html=1;verticalAlign=bottom;endArrow=block;entryX=-0.3;entryY=0.12;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="iUqJYe-C6QMbKc_73fvr-54" target="iUqJYe-C6QMbKc_73fvr-57">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="225" y="580" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="iUqJYe-C6QMbKc_73fvr-66" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;" edge="1" parent="1" source="iUqJYe-C6QMbKc_73fvr-58" target="iUqJYe-C6QMbKc_73fvr-51">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="225" y="726" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="iUqJYe-C6QMbKc_73fvr-67" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=-0.1;exitY=0.8;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="iUqJYe-C6QMbKc_73fvr-57" target="iUqJYe-C6QMbKc_73fvr-52">
