@@ -1,1 +1,49 @@
-<mxfile host="app.diagrams.net" modified="2020-10-28T00:06:47.574Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" version="13.8.5" etag="xM6C_vfYoUSfOv_6-s6R" type="github"><diagram id="Q_qE8EcCFIIwkH7XUZk0">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-10-28T00:32:38.561Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="fKLG9b3uaQsv5XtX2I9D" version="13.8.5" type="github">
+  <diagram id="Q_qE8EcCFIIwkH7XUZk0" name="第 1 页">
+    <mxGraphModel dx="946" dy="623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="5SDwK1oSFe64ry_V1uYz-1" value="司磅员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="254" y="230" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5SDwK1oSFe64ry_V1uYz-4" value="采购业务员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="134" y="360" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5SDwK1oSFe64ry_V1uYz-6" value="销售业务员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="204" y="360" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5SDwK1oSFe64ry_V1uYz-7" value="司机" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="194" y="560" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5SDwK1oSFe64ry_V1uYz-8" value="门岗" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="334" y="90" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5SDwK1oSFe64ry_V1uYz-9" value="外部物流" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="74" y="490" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5SDwK1oSFe64ry_V1uYz-10" value="卸货员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="494" y="150" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5SDwK1oSFe64ry_V1uYz-11" value="财务主管" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="624" y="270" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5SDwK1oSFe64ry_V1uYz-12" value="化验员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="514" y="430" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5SDwK1oSFe64ry_V1uYz-13" value="运费结算员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="344" y="360" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5SDwK1oSFe64ry_V1uYz-14" value="过磅班长" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="364" y="230" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5SDwK1oSFe64ry_V1uYz-15" value="质检科长" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="614" y="430" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5SDwK1oSFe64ry_V1uYz-16" value="外部司磅员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="724" y="80" width="30" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
