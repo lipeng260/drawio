@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-02T08:19:54.730Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="3KRJlhy_IT3CV3rYYJmB" version="14.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-02T08:22:42.050Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="kr5rYhRJYdtBF6JbsHND" version="14.4.3" type="github">
   <diagram id="YQsdVBsKoyDZ6Q6LEy1Y" name="Page-1">
     <mxGraphModel dx="1728" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -198,9 +198,6 @@
         <mxCell id="Daoox-q7RhDwg5561V3m-30" value="100" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-700" y="970" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Daoox-q7RhDwg5561V3m-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="Daoox-q7RhDwg5561V3m-31" target="Daoox-q7RhDwg5561V3m-28">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="Daoox-q7RhDwg5561V3m-31" value="60" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-340" y="735" width="120" height="60" as="geometry" />
         </mxCell>
@@ -208,58 +205,22 @@
           <mxGeometry x="-690" y="735" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Daoox-q7RhDwg5561V3m-33" value="流水" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-350" y="735" width="40" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="Daoox-q7RhDwg5561V3m-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="Daoox-q7RhDwg5561V3m-34" target="Daoox-q7RhDwg5561V3m-28">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Daoox-q7RhDwg5561V3m-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="Daoox-q7RhDwg5561V3m-34" target="Daoox-q7RhDwg5561V3m-29">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="-310" y="700" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Daoox-q7RhDwg5561V3m-34" value="60" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-340" y="810" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Daoox-q7RhDwg5561V3m-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Daoox-q7RhDwg5561V3m-35" target="Daoox-q7RhDwg5561V3m-29">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="Daoox-q7RhDwg5561V3m-35" value="60" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-340" y="870" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Daoox-q7RhDwg5561V3m-36" value="" style="endArrow=none;dashed=1;html=1;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-760" y="850" as="sourcePoint" />
-            <mxPoint x="-150" y="850" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="-340" y="880" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Daoox-q7RhDwg5561V3m-42" value="挂账" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-220" y="660" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Daoox-q7RhDwg5561V3m-43" value="" style="endArrow=none;dashed=1;html=1;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-800" y="950" as="sourcePoint" />
-            <mxPoint x="-90" y="950" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Daoox-q7RhDwg5561V3m-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="Daoox-q7RhDwg5561V3m-46" target="Daoox-q7RhDwg5561V3m-29">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Daoox-q7RhDwg5561V3m-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="Daoox-q7RhDwg5561V3m-46" target="Daoox-q7RhDwg5561V3m-30">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="Daoox-q7RhDwg5561V3m-46" value="60" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-340" y="930" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Daoox-q7RhDwg5561V3m-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Daoox-q7RhDwg5561V3m-50" target="Daoox-q7RhDwg5561V3m-30">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="-340" y="970" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Daoox-q7RhDwg5561V3m-50" value="80" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-340" y="1010" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Daoox-q7RhDwg5561V3m-51" value="" style="endArrow=none;dashed=1;html=1;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-790" y="1050" as="sourcePoint" />
-            <mxPoint x="-50" y="1050" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="-340" y="1040" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
