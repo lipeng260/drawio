@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-09T07:44:26.795Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36" etag="PVko_ZZldPg4dkPyFNoQ" version="14.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-09T07:45:22.718Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36" etag="0LvIQBkLAohjxn5orCqE" version="14.4.4" type="github">
   <diagram id="v0UE930JJ51b64WdhFTB" name="Page-1">
     <mxGraphModel dx="900" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -52,18 +52,28 @@
         <mxCell id="9adwoYlA66B2ADdjBk8U-8" value="货物运单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="220" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9adwoYlA66B2ADdjBk8U-10" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="9adwoYlA66B2ADdjBk8U-8">
+        <mxCell id="9adwoYlA66B2ADdjBk8U-10" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.392;entryY=1.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="9adwoYlA66B2ADdjBk8U-8">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="650" y="120" as="sourcePoint" />
+            <mxPoint x="520" y="380" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9adwoYlA66B2ADdjBk8U-11" value="创建" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="9adwoYlA66B2ADdjBk8U-10">
+        <mxCell id="9adwoYlA66B2ADdjBk8U-11" value="创建、分配" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="9adwoYlA66B2ADdjBk8U-10">
           <mxGeometry x="-0.3114" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="9.15" y="-15.62" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9adwoYlA66B2ADdjBk8U-26" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.833;entryY=1.067;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="9adwoYlA66B2ADdjBk8U-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="490" y="380" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9adwoYlA66B2ADdjBk8U-27" value="查看、创建" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="9adwoYlA66B2ADdjBk8U-26">
+          <mxGeometry x="0.053" relative="1" as="geometry">
+            <mxPoint y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="9adwoYlA66B2ADdjBk8U-9" value="货主" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="660" y="50" width="30" height="60" as="geometry" />
+          <mxGeometry x="490" y="380" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9adwoYlA66B2ADdjBk8U-16" value="车辆管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="230" width="120" height="60" as="geometry" />
