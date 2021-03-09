@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-09T07:41:18.391Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36" etag="phD-O4Eaz1NhHFJQXFVi" version="14.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-09T07:41:38.730Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36" etag="RmhA24383KjkBWO9htty" version="14.4.4" type="github">
   <diagram id="v0UE930JJ51b64WdhFTB" name="Page-1">
     <mxGraphModel dx="900" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -9,9 +9,6 @@
         </mxCell>
         <mxCell id="9adwoYlA66B2ADdjBk8U-3" value="司机" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="500" y="390" width="30" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="9adwoYlA66B2ADdjBk8U-4" value="矿管员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="430" y="40" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9adwoYlA66B2ADdjBk8U-15" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9adwoYlA66B2ADdjBk8U-5" target="9adwoYlA66B2ADdjBk8U-16">
           <mxGeometry relative="1" as="geometry">
