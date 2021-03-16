@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-16T12:54:19.297Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36" etag="g55rTnJf5jrUS1aCDNNX" version="14.4.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-16T13:03:04.377Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36" etag="2oW4YNTcEWQo_ALdBAt1" version="14.4.5" type="github">
   <diagram id="XHLoltds-L57Nakwp4Hv" name="Page-1">
     <mxGraphModel dx="900" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,9 +7,9 @@
         <mxCell id="aHdHfkGLuesiWaTR18bo-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="aHdHfkGLuesiWaTR18bo-1" target="aHdHfkGLuesiWaTR18bo-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aHdHfkGLuesiWaTR18bo-16" value="3. 拉去上煤计划" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="aHdHfkGLuesiWaTR18bo-15">
+        <mxCell id="aHdHfkGLuesiWaTR18bo-16" value="3. 拉去上煤计划或同步" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="aHdHfkGLuesiWaTR18bo-15">
           <mxGeometry x="0.1444" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="13" y="1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="aHdHfkGLuesiWaTR18bo-1" value="小程序后端&lt;br&gt;7. 打印磅单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -48,7 +48,7 @@
         <mxCell id="aHdHfkGLuesiWaTR18bo-4" value="门禁" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="400" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="aHdHfkGLuesiWaTR18bo-14" value="2. 打开上煤计划、获取用户信息&lt;br&gt;4. 派车" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="aHdHfkGLuesiWaTR18bo-5" target="aHdHfkGLuesiWaTR18bo-1">
+        <mxCell id="aHdHfkGLuesiWaTR18bo-14" value="2. 打开上煤计划id、获取用户信息&lt;br&gt;4. 派车（车辆、上煤计划id）" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="aHdHfkGLuesiWaTR18bo-5" target="aHdHfkGLuesiWaTR18bo-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="aHdHfkGLuesiWaTR18bo-5" value="小程序前端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
