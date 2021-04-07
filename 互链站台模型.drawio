@@ -1,26 +1,26 @@
-<mxfile host="app.diagrams.net" modified="2021-04-07T02:20:39.418Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="AjN84sBVch0dGgRqNS2N" version="14.5.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-07T03:25:31.127Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="GnlofimVWnosRx15Giw-" version="14.5.8" type="github">
   <diagram id="ysoWOtPNUdPmIPW3vP79" name="Page-1">
     <mxGraphModel dx="904" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="UAE7bhMxjm3Rt-ynrkiZ-1" value="门禁通过记录&lt;br&gt;e:已创建" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="520" width="120" height="60" as="geometry" />
+        <mxCell id="UAE7bhMxjm3Rt-ynrkiZ-1" value="门禁通过记录&lt;br&gt;s:上传图片&lt;br&gt;e:已创建" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="490" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UAE7bhMxjm3Rt-ynrkiZ-2" value="过磅记录&lt;br&gt;e:已创建" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="590" y="430" width="120" height="60" as="geometry" />
+          <mxGeometry x="490" y="430" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UAE7bhMxjm3Rt-ynrkiZ-3" value="过磅单&lt;br&gt;e:已创建" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="310" width="120" height="60" as="geometry" />
+        <mxCell id="UAE7bhMxjm3Rt-ynrkiZ-3" value="过磅单&lt;br&gt;s:修改产品货主、打印、查询列表、合并、删除、&lt;br&gt;小程序工单详情&lt;br&gt;e:已创建&lt;br&gt;sub:过磅记录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="290" width="300" height="90" as="geometry" />
         </mxCell>
         <mxCell id="UAE7bhMxjm3Rt-ynrkiZ-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="UAE7bhMxjm3Rt-ynrkiZ-5" target="UAE7bhMxjm3Rt-ynrkiZ-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UAE7bhMxjm3Rt-ynrkiZ-5" value="过磅图片" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="590" y="520" width="120" height="60" as="geometry" />
+          <mxGeometry x="490" y="530" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UAE7bhMxjm3Rt-ynrkiZ-11" value="过磅记录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="650" width="120" height="60" as="geometry" />
+          <mxGeometry x="390" y="700" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UAE7bhMxjm3Rt-ynrkiZ-16" value="工单" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="150" width="120" height="60" as="geometry" />
@@ -46,20 +46,50 @@
         <mxCell id="UAE7bhMxjm3Rt-ynrkiZ-23" value="app端" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="30" y="420" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="UAE7bhMxjm3Rt-ynrkiZ-25" value="上煤计划&lt;br&gt;s:分享、接单、派车、关闭、打开&lt;br&gt;e:已关闭、已打开" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="294" y="340" width="120" height="60" as="geometry" />
+        <mxCell id="UAE7bhMxjm3Rt-ynrkiZ-25" value="上煤计划&lt;br&gt;s:分享、接单、派车、关闭、打开、详情（小程序、app）、&lt;br&gt;列表（小程序、app）&lt;br&gt;e:已关闭、已打开" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="290" width="340" height="90" as="geometry" />
         </mxCell>
         <mxCell id="UAE7bhMxjm3Rt-ynrkiZ-26" value="门禁通过记录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="650" width="120" height="60" as="geometry" />
+          <mxGeometry x="260" y="700" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UAE7bhMxjm3Rt-ynrkiZ-27" value="司机" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="190" y="40" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UAE7bhMxjm3Rt-ynrkiZ-28" value="微信用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="294" y="150" width="120" height="60" as="geometry" />
+        <mxCell id="UAE7bhMxjm3Rt-ynrkiZ-28" value="微信用户&lt;br&gt;s:登录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UAE7bhMxjm3Rt-ynrkiZ-29" value="货主" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="140" y="310" width="30" height="60" as="geometry" />
+          <mxGeometry x="65" y="290" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UAE7bhMxjm3Rt-ynrkiZ-33" value="运维" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="720" y="490" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UAE7bhMxjm3Rt-ynrkiZ-35" value="门禁&lt;br&gt;s:开闸" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UAE7bhMxjm3Rt-ynrkiZ-36" value="磅房&lt;br&gt;s:开闸" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UAE7bhMxjm3Rt-ynrkiZ-37" value="iot" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="55" y="880" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="UAE7bhMxjm3Rt-ynrkiZ-38" value="" style="endArrow=none;dashed=1;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="850" as="sourcePoint" />
+            <mxPoint x="800" y="850" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UAE7bhMxjm3Rt-ynrkiZ-41" value="mqtt" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UAE7bhMxjm3Rt-ynrkiZ-42" value="通信端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UAE7bhMxjm3Rt-ynrkiZ-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="UAE7bhMxjm3Rt-ynrkiZ-43" target="UAE7bhMxjm3Rt-ynrkiZ-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UAE7bhMxjm3Rt-ynrkiZ-43" value="门禁摄像头" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="880" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
