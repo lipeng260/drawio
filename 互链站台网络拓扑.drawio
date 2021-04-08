@@ -1,1 +1,55 @@
-<mxfile host="app.diagrams.net" modified="2021-04-08T05:45:49.706Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" version="14.5.8" etag="beMpeRuVUzJtal04sfJz" type="github"><diagram id="i68JFdNTJ4IvCKRYNh7I">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-04-08T06:02:59.992Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="nQ1S0ifuY8NJG43gkTBo" version="14.5.8" type="github">
+  <diagram id="i68JFdNTJ4IvCKRYNh7I" name="Page-1">
+    <mxGraphModel dx="904" dy="619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="E38PJkLzuDfSd40zfgup-1" value="桌面端&lt;br&gt;desktop" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E38PJkLzuDfSd40zfgup-2" value="控制道闸&lt;br&gt;iot" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E38PJkLzuDfSd40zfgup-3" value="过磅业务逻辑" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="519" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E38PJkLzuDfSd40zfgup-4" value="运维" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="399" y="170" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E38PJkLzuDfSd40zfgup-6" value="小程序" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E38PJkLzuDfSd40zfgup-7" value="司机" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="205" y="180" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E38PJkLzuDfSd40zfgup-8" value="gateway" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="195" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E38PJkLzuDfSd40zfgup-9" value="app" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E38PJkLzuDfSd40zfgup-11" value="货主" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="75" y="170" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E38PJkLzuDfSd40zfgup-12" value="通信端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E38PJkLzuDfSd40zfgup-13" value="weigh" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="344" y="585" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E38PJkLzuDfSd40zfgup-14" value="new_platform" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="195" y="585" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E38PJkLzuDfSd40zfgup-15" value="大屏展示" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="595" y="180" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E38PJkLzuDfSd40zfgup-16" value="datav" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E38PJkLzuDfSd40zfgup-17" value="datav后端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="585" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
