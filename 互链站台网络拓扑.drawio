@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-14T08:05:49.171Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="V8xjuUoaQlh30UFb8M9K" version="14.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-14T08:38:36.200Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="UfNB1ZDfP6rtk81DIHjs" version="14.6.0" type="github">
   <diagram id="i68JFdNTJ4IvCKRYNh7I" name="Page-1">
     <mxGraphModel dx="1728" dy="619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -15,9 +15,6 @@
         </mxCell>
         <mxCell id="E38PJkLzuDfSd40zfgup-2" value="控制道闸(web)&lt;br&gt;iot" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="420" y="270" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="E38PJkLzuDfSd40zfgup-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="E38PJkLzuDfSd40zfgup-3" target="E38PJkLzuDfSd40zfgup-13" edge="1">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="E38PJkLzuDfSd40zfgup-3" value="过磅业务逻辑(web)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="560" y="450" width="120" height="60" as="geometry" />
