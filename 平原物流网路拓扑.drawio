@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-16T02:24:38.689Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="dmqnLHdV30JXgRfYvSJ2" version="14.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-16T02:24:48.135Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="EKE3nv2H_u10wihsc_k5" version="14.6.1" type="github">
   <diagram id="DBg23Ft4EOHM_xaeqgFh" name="Page-1">
     <mxGraphModel dx="901" dy="619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -60,7 +60,7 @@
         <mxCell id="3gOpFJUrYChyAeatIPqP-16" value="货主端app" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="164" y="120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3gOpFJUrYChyAeatIPqP-17" value="货主端app" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="3gOpFJUrYChyAeatIPqP-17" value="基地app" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="347" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3gOpFJUrYChyAeatIPqP-18" value="司机小程序" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
