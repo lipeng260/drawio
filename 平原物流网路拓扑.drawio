@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-16T02:24:48.135Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="EKE3nv2H_u10wihsc_k5" version="14.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-16T02:25:37.665Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="JHBNG6jvSAqcCOHDZN6_" version="14.6.1" type="github">
   <diagram id="DBg23Ft4EOHM_xaeqgFh" name="Page-1">
     <mxGraphModel dx="901" dy="619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -107,11 +107,11 @@
         <mxCell id="3gOpFJUrYChyAeatIPqP-31" value="应用服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="280" width="734" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="3gOpFJUrYChyAeatIPqP-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.568;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="3gOpFJUrYChyAeatIPqP-35" target="3gOpFJUrYChyAeatIPqP-31">
+        <mxCell id="3gOpFJUrYChyAeatIPqP-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.571;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="3gOpFJUrYChyAeatIPqP-35" target="3gOpFJUrYChyAeatIPqP-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3gOpFJUrYChyAeatIPqP-35" value="mqtt消息队列" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="384" y="350" width="150" height="60" as="geometry" />
+        <mxCell id="3gOpFJUrYChyAeatIPqP-35" value="物联网平台" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="384" y="360" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3gOpFJUrYChyAeatIPqP-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.123;entryY=1.075;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="3gOpFJUrYChyAeatIPqP-36" target="3gOpFJUrYChyAeatIPqP-31">
           <mxGeometry relative="1" as="geometry" />
