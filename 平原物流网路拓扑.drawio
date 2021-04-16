@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-16T02:22:43.298Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="S9SQXeC9H5Rv9g6y6SDE" version="14.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-16T02:23:31.219Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="0Ci11mORJk2kRinlAwBS" version="14.6.1" type="github">
   <diagram id="DBg23Ft4EOHM_xaeqgFh" name="Page-1">
     <mxGraphModel dx="901" dy="619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -31,11 +31,11 @@
             <mxPoint x="199.5" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3gOpFJUrYChyAeatIPqP-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="3gOpFJUrYChyAeatIPqP-8" target="3gOpFJUrYChyAeatIPqP-35">
+        <mxCell id="3gOpFJUrYChyAeatIPqP-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="3gOpFJUrYChyAeatIPqP-8" target="3gOpFJUrYChyAeatIPqP-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3gOpFJUrYChyAeatIPqP-8" value="地磅边缘节点" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="530" width="120" height="60" as="geometry" />
+          <mxGeometry x="399" y="530" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3gOpFJUrYChyAeatIPqP-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3gOpFJUrYChyAeatIPqP-9" target="3gOpFJUrYChyAeatIPqP-11">
           <mxGeometry relative="1" as="geometry" />
@@ -49,7 +49,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3gOpFJUrYChyAeatIPqP-10" value="轨道衡数据采集" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="530" width="120" height="60" as="geometry" />
+          <mxGeometry x="264" y="530" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3gOpFJUrYChyAeatIPqP-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3gOpFJUrYChyAeatIPqP-11" target="3gOpFJUrYChyAeatIPqP-10">
           <mxGeometry relative="1" as="geometry" />
@@ -72,7 +72,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3gOpFJUrYChyAeatIPqP-22" value="门禁控制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="530" width="120" height="60" as="geometry" />
+          <mxGeometry x="530" y="530" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3gOpFJUrYChyAeatIPqP-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="3gOpFJUrYChyAeatIPqP-25">
           <mxGeometry relative="1" as="geometry">
@@ -80,7 +80,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3gOpFJUrYChyAeatIPqP-25" value="数字大屏" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="530" width="120" height="60" as="geometry" />
+          <mxGeometry x="660" y="530" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3gOpFJUrYChyAeatIPqP-28" value="" style="endArrow=none;dashed=1;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
