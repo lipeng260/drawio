@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-16T03:08:50.849Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="tfzTwMQEB28etpUhNVLu" version="14.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-16T03:18:50.180Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="Z1OefC6TiAFCZ62SE28_" version="14.6.1" type="github">
   <diagram id="DBg23Ft4EOHM_xaeqgFh" name="Page-1">
     <mxGraphModel dx="1141" dy="619" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -100,7 +100,7 @@
         <mxCell id="3gOpFJUrYChyAeatIPqP-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="3gOpFJUrYChyAeatIPqP-31" target="3gOpFJUrYChyAeatIPqP-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3gOpFJUrYChyAeatIPqP-31" value="应用服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="3gOpFJUrYChyAeatIPqP-31" value="应用服务（发运模块、门禁模块、磅房模块、网关）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="280" width="734" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3gOpFJUrYChyAeatIPqP-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3gOpFJUrYChyAeatIPqP-35" target="3gOpFJUrYChyAeatIPqP-30">
