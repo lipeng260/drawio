@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-24T07:33:10.394Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="ro5Wsx4gk1q223Kh0Gqn" version="14.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-24T07:37:59.232Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="mm_E6b34mAbArt0V-dZt" version="14.6.6" type="github">
   <diagram id="DBg23Ft4EOHM_xaeqgFh" name="Page-1">
     <mxGraphModel dx="1351" dy="516" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -73,7 +73,7 @@
             <mxPoint x="781" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3gOpFJUrYChyAeatIPqP-31" value="应用服务（火运模块、订单、磅单、结算、网关）" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="3gOpFJUrYChyAeatIPqP-31" value="应用服务（火运模块、订单、磅单、结算、网关、ngxin负载均衡）" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="280" width="734" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tMehBcuiS7x0Ks0Ji6M1-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3gOpFJUrYChyAeatIPqP-35" target="tMehBcuiS7x0Ks0Ji6M1-7">
@@ -147,7 +147,7 @@
         <mxCell id="tMehBcuiS7x0Ks0Ji6M1-13" value="redis" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="332" y="348" width="60" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="tMehBcuiS7x0Ks0Ji6M1-16" value="&lt;h1&gt;硬件需求&lt;/h1&gt;&lt;p&gt;1. 私有云（青云或其他）&lt;/p&gt;&lt;p&gt;订单、磅单、火运微服务&lt;/p&gt;&lt;p&gt;仓库、结算微服务&lt;/p&gt;&lt;p&gt;redis数据库&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;2. 本地局域网&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="tMehBcuiS7x0Ks0Ji6M1-16" value="&lt;h1&gt;硬件需求&lt;/h1&gt;&lt;p&gt;1. 私有云（青云或其他）&lt;/p&gt;&lt;p&gt;订单、磅单、火运微服务 （1核4G）* 2&lt;/p&gt;&lt;p&gt;仓库、结算微服务（1核4G）* 2&lt;/p&gt;&lt;p&gt;redis数据库-哨兵模式（1和2G）* 3&lt;/p&gt;&lt;p&gt;消息队列&lt;/p&gt;&lt;p&gt;2. 本地局域网&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="810" y="252" width="222" height="320" as="geometry" />
         </mxCell>
         <mxCell id="tMehBcuiS7x0Ks0Ji6M1-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="tMehBcuiS7x0Ks0Ji6M1-17" target="tMehBcuiS7x0Ks0Ji6M1-7">
