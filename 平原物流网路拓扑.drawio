@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-24T07:18:30.112Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="5xvf8ey1hgPdh655bXDG" version="14.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-24T07:19:55.463Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="574jD09d9i_IyUd5rRi1" version="14.6.6" type="github">
   <diagram id="DBg23Ft4EOHM_xaeqgFh" name="Page-1">
     <mxGraphModel dx="1541" dy="619" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -26,7 +26,7 @@
           <mxGeometry x="50" y="465" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="3gOpFJUrYChyAeatIPqP-8" value="地磅边缘节点" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="434" y="548" width="120" height="60" as="geometry" />
+          <mxGeometry x="67" y="524" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hYvKxtE7ZwwdJgqlN6lU-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="3gOpFJUrYChyAeatIPqP-16" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -53,7 +53,7 @@
           <mxGeometry x="337" y="119" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3gOpFJUrYChyAeatIPqP-22" value="门禁控制" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="650" y="548" width="120" height="60" as="geometry" />
+          <mxGeometry x="235" y="524" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hYvKxtE7ZwwdJgqlN6lU-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.907;entryY=-0.05;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="3gOpFJUrYChyAeatIPqP-25" target="3gOpFJUrYChyAeatIPqP-31" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -80,7 +80,7 @@
           <mxGeometry x="40" y="280" width="734" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3gOpFJUrYChyAeatIPqP-35" value="mqtt消息队列" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="541" y="460" width="174" height="60" as="geometry" />
+          <mxGeometry x="415" y="524" width="174" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3gOpFJUrYChyAeatIPqP-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.078;entryY=1.025;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="3gOpFJUrYChyAeatIPqP-36" target="3gOpFJUrYChyAeatIPqP-31" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -122,7 +122,7 @@
           <mxGeometry x="-185" y="270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tMehBcuiS7x0Ks0Ji6M1-7" value="过磅应用服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="356" y="460" width="120" height="60" as="geometry" />
+          <mxGeometry x="640" y="524" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
