@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-27T11:23:47.036Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="X8fTTkW-dRvB4iCXx5fM" version="14.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-27T11:35:34.517Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="gdtN0vaGzhVpy0qSIzbp" version="14.6.6" type="github">
   <diagram id="xEzvbHc2wVUWec-voi2f" name="Page-1">
     <mxGraphModel dx="901" dy="619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -67,8 +67,11 @@
         <mxCell id="wUHCLOmeRVV4cEU-SdVx-23" value="消息队列mqtt" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="930" y="120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wUHCLOmeRVV4cEU-SdVx-25" value="&lt;h1&gt;v3版本&lt;/h1&gt;&lt;p&gt;过磅业务逻辑在边缘节点&lt;/p&gt;&lt;p&gt;mqtt协议接收实时变化便于监控&lt;/p&gt;&lt;p&gt;过磅记录也发送到消息队列&lt;/p&gt;&lt;p&gt;无界面，web远程模式。&lt;/p&gt;&lt;p&gt;支持断网过磅，但无法打印磅单。随后可生成需要的电子磅单，最终一致。&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="235" y="510" width="195" height="200" as="geometry" />
+        <mxCell id="wUHCLOmeRVV4cEU-SdVx-25" value="&lt;h1&gt;v3版本&lt;/h1&gt;&lt;p&gt;过磅业务逻辑在边缘节点&lt;/p&gt;&lt;p&gt;mqtt协议接收实时变化便于监控&lt;/p&gt;&lt;p&gt;过磅记录也发送到消息队列&lt;/p&gt;&lt;p&gt;无界面，web远程模式。&lt;/p&gt;&lt;p&gt;优点：&lt;/p&gt;&lt;p&gt;支持断网过磅，但无法打印磅单。随后可生成需要的电子磅单，最终一致。&lt;/p&gt;&lt;p&gt;缺点：&lt;/p&gt;&lt;p&gt;需要些ota升级。&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="482" width="240" height="328" as="geometry" />
+        </mxCell>
+        <mxCell id="wUHCLOmeRVV4cEU-SdVx-26" value="&lt;h1&gt;v2版本&lt;/h1&gt;&lt;p&gt;过磅业务逻辑在云端&lt;/p&gt;&lt;p&gt;不支持断网过磅。&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="580" y="482" width="235" height="205" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
