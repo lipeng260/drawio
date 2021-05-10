@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-10T07:11:18.334Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="WjZn81dTk1lV1L5Xo-Y8" version="14.6.11" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-10T10:07:04.815Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="dNix6BgTW1586FIa_bBG" version="14.6.11" type="github">
   <diagram id="qtWjTn31YD0YpvK0INZs" name="Page-1">
     <mxGraphModel dx="1141" dy="619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8,19 +8,82 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="47v1WlampJaJBu8t99XA-1" value="火车到达" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="240" width="120" height="60" as="geometry" />
+          <mxGeometry x="450" y="720" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="47v1WlampJaJBu8t99XA-2" value="流程" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="40" y="90" width="40" height="20" as="geometry" />
+        <mxCell id="47v1WlampJaJBu8t99XA-2" value="发运流程" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="90" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="47v1WlampJaJBu8t99XA-3" value="到达" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="240" width="120" height="60" as="geometry" />
+          <mxGeometry x="650" y="720" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="47v1WlampJaJBu8t99XA-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="440" width="120" height="60" as="geometry" />
+          <mxGeometry x="290" y="860" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="47v1WlampJaJBu8t99XA-6" value="组织架构" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="70" y="330" width="70" height="40" as="geometry" />
+          <mxGeometry x="100" y="750" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="47v1WlampJaJBu8t99XA-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="47v1WlampJaJBu8t99XA-7" target="47v1WlampJaJBu8t99XA-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="47v1WlampJaJBu8t99XA-7" value="货主下单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="47v1WlampJaJBu8t99XA-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="47v1WlampJaJBu8t99XA-8" target="47v1WlampJaJBu8t99XA-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="47v1WlampJaJBu8t99XA-8" value="站台叫车" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="47v1WlampJaJBu8t99XA-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="47v1WlampJaJBu8t99XA-9" target="47v1WlampJaJBu8t99XA-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="47v1WlampJaJBu8t99XA-9" value="过皮、抄车号" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="47v1WlampJaJBu8t99XA-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="47v1WlampJaJBu8t99XA-11" target="47v1WlampJaJBu8t99XA-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="47v1WlampJaJBu8t99XA-11" value="装车" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="630" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="47v1WlampJaJBu8t99XA-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="47v1WlampJaJBu8t99XA-14" target="47v1WlampJaJBu8t99XA-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="47v1WlampJaJBu8t99XA-14" value="称重" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="830" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="47v1WlampJaJBu8t99XA-16" value="缴费" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="47v1WlampJaJBu8t99XA-18" value="火车收货流程" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="310" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="47v1WlampJaJBu8t99XA-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="47v1WlampJaJBu8t99XA-19" target="47v1WlampJaJBu8t99XA-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="47v1WlampJaJBu8t99XA-19" value="车站通知站台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="47v1WlampJaJBu8t99XA-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="47v1WlampJaJBu8t99XA-20" target="47v1WlampJaJBu8t99XA-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="47v1WlampJaJBu8t99XA-20" value="站台调度" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="47v1WlampJaJBu8t99XA-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="47v1WlampJaJBu8t99XA-22" target="47v1WlampJaJBu8t99XA-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="47v1WlampJaJBu8t99XA-22" value="毛重" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="47v1WlampJaJBu8t99XA-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="47v1WlampJaJBu8t99XA-24" target="47v1WlampJaJBu8t99XA-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="47v1WlampJaJBu8t99XA-24" value="卸车" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="630" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="47v1WlampJaJBu8t99XA-26" value="回皮" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="830" y="400" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
