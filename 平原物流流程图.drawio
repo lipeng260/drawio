@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-10T10:35:07.323Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="H7E8qCg63kCOdZy-hBSQ" version="14.6.11" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-11T02:30:55.762Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="6FVTJGMTr55lxXH49XtC" version="14.6.11" type="github">
   <diagram id="qtWjTn31YD0YpvK0INZs" name="Page-1">
     <mxGraphModel dx="1141" dy="619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -16,8 +16,8 @@
         <mxCell id="47v1WlampJaJBu8t99XA-3" value="到达" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="650" y="960" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="47v1WlampJaJBu8t99XA-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="1100" width="120" height="60" as="geometry" />
+        <mxCell id="47v1WlampJaJBu8t99XA-5" value="过磅&lt;br&gt;单据：过磅单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="1260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="47v1WlampJaJBu8t99XA-6" value="组织架构" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="100" y="990" width="70" height="40" as="geometry" />
@@ -162,6 +162,9 @@
         </mxCell>
         <mxCell id="47v1WlampJaJBu8t99XA-58" value="装车员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="860" y="830" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="47v1WlampJaJBu8t99XA-59" value="中建材资源有限公司过磅员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="295" y="1350" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
